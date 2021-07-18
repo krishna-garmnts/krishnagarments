@@ -1,0 +1,25 @@
+body {
+    margin: 90px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a:link {
+    text-decoration: none;
+    color: red;
+}
+
+a:hover {
+    background-color: yellow;
+}
+
+a:visited {
+    color: red;
+}
+
+div {
+    margin: 20px;
+    padding: 20px;
+    background-color: grey;
+    border-radius: 0.5cm;
+    text-align: center;
+}
